@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Bem Vindo
+layout: default
+title: "TESTE"
 permalink: /
 ---
 hey ho
