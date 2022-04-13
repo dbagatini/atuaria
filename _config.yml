@@ -4,3 +4,7 @@ plugins:
 
 title: Ciências Atuariais
 description: é isso aí
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
